@@ -11,3 +11,7 @@ For this segment, libraries such as pandas, numpy, seaborn and plotly.express we
 
 ## Visualization
 A dynamic presentation is provided in a pbix file to load into Power Bi desktop, so the user can explore key insights. The dashboard includes a distribution for schooling years, bottom and top countries with lowest and highest average schooling years, growth across time and a choropleth map.
+
+## Disclaimer
+
+Since GitHub does not show dynamic plotly charts, two notebooks were provided: Static and dynamic. Static shows the charts as images. Consequently, for the dynamic one, you can copy the url and run it here: https://nbviewer.org/ 
