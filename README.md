@@ -15,3 +15,7 @@ A dynamic presentation is provided in a pbix file to load into Power Bi desktop,
 ## Disclaimer
 
 Since GitHub does not show dynamic plotly charts, two notebooks were provided: Static and dynamic. Static shows the charts as images. Consequently, for the dynamic one, you can copy the url and run it here: https://nbviewer.org/ 
+
+## Data Source
+
+https://www.kaggle.com/datasets/iamsouravbanerjee/years-of-schooling-worldwide
